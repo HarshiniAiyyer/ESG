@@ -1,6 +1,6 @@
 # 🌿 ESGRecommender
 
-A simple, interpretable recommender system that selects companies with low ESG (Environmental, Social, and Governance) risk scores using **Genetic Algorithms**. This project encourages socially responsible investing by promoting portfolios with minimal sustainability risks.
+A recommender system that selects companies with low ESG (Environmental, Social, and Governance) risk scores using **Genetic Algorithms**. This project encourages socially responsible investing by promoting portfolios with minimal sustainability risks.
 
 ---
 
